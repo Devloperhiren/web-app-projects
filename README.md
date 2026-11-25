@@ -7,7 +7,6 @@
 <li> fixing slow routers</li>
 <li> Building firmware,hardware and AI assistant Microphones.</li>
 </ul>
-<br>
 
 <p>  I used AI to reverse engineer existing apps, and I used Firebase for data storage. I gave the AI the relevant information and my vision of what to build, then analyzed what it produced and gave improvement prompts until the product matched what I wanted. </p>
 
